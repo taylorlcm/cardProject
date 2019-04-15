@@ -1,0 +1,2 @@
+# cardProject
+React Native, fontawesom 
